@@ -1,0 +1,5 @@
+Player URL:
+https://bewinemeta.github.io/player/?list=https://raw.githubusercontent.com/bewinemeta/341ecc7b4a08532a/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/bewinemeta/341ecc7b4a08532a/refs/heads/master/github_master.m3u8
